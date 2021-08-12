@@ -4,3 +4,6 @@ someArray.push("hello")
 
 console.log(someArray[1])
 console.log(someArray)
+
+
+//sdh
